@@ -2,6 +2,8 @@
 
 Validate WebVTT caption files: find invalid and reversed timestamps, overlaps, out-of-order and empty cues, and readability problems; see every cue on a timeline with a playback preview; and download a corrected file when the fix is safe.
 
+**Live demo:** [https://kavishtolani.github.io/captioncheck/](https://kavishtolani.github.io/captioncheck/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Timeline, preview and problems](docs/check.png)
 
 | Landing | Mobile |
@@ -45,3 +47,7 @@ Add the `WEBVTT` header · commas → full stops · swap reversed start/end · r
 ## Future improvements
 
 - Load a local video for real sync preview; full SRT ↔ VTT conversion; validate cue settings.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).

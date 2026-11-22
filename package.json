@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "Validate and repair WebVTT caption files.",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
