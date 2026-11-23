@@ -1,5 +1,17 @@
 # CaptionCheck
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="CaptionCheck on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="CaptionCheck on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="CaptionCheck on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 Validate WebVTT caption files: find invalid and reversed timestamps, overlaps, out-of-order and empty cues, and readability problems; see every cue on a timeline with a playback preview; and download a corrected file when the fix is safe.
 
 **Live demo:** [https://kavishtolani.github.io/captioncheck/](https://kavishtolani.github.io/captioncheck/) — runs entirely in your browser; demo data is fictional and labelled.
